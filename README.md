@@ -2,7 +2,5 @@
 2. An admin will choose when the lottery is over
 3. The lottery will select a random winner
 
-How do we want to test this?
-
 
 
